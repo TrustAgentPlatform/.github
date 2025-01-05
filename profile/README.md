@@ -6,14 +6,10 @@ platform.
 
 ![](overview.png)
 
-The intelligence in "automotive level" can be achived via LLM + External knowledge
-(via RAG or Fine-tune) + Tools; The "close-loop" level automation need multiple
-domain specific agents; The final automation need collaborations of agent.
+Achieving "automotive-level" intelligence can be accomplished through the integration of Large Language Models (LLM) with external knowledge sources, either via Retrieval-Augmented Generation (RAG) or fine-tuning, along with the use of various tools. Reaching "closed-loop" level automation requires the deployment of multiple domain-specific agents. Ultimately, achieving full automation necessitates the collaboration of these agents.
 
-In a real product, there are more considerations like trustworhy, security, hybird
-model's orchestration etc.
+In a real-world product, additional considerations such as trustworthiness, security, and the orchestration of hybrid models are crucial.
 
-We are building a production ready platform for the fintech vertical and scale
-to more verticals.
+We are developing a production-ready platform tailored for the fintech vertical, with plans to scale across additional verticals.
 
 ![](fintech-vertical.png)
